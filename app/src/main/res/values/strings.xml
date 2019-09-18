@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ndef Demo App</string>
+
+    <string name="nfc_not_available">NFC is not available. You cannot read NFC tags with this device.</string>
+    <string name="nfc_available_launch_text">NFC is available. Hold your device close to an NFC tag!</string>
+    <string name="nfc_tag_not_supported">NFC tag not supported. Try again with another NFC tag.</string>
 </resources>
