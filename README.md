@@ -7,6 +7,7 @@ ____
 
 # Ndef Demo Android
 Simple Android NFC app to demonstrate Ndef messages with instrumented tests (UI tests).
+Beside of testing, this app can be used for performance-profiling of NFC-related code.
 
 The instrumented tests fire stubbed NFC Intents to trigger NFC actions.
 
