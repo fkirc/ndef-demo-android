@@ -1,7 +1,7 @@
 # Deprecation Notice
 
 Maintaining a demo-app is not sustainable if there are no users.
-In general, I recommend to avoid too much native testing and focus on cross-platform testing instead (e.g. via https://capacitorjs.com or Flutter).
+Moreover, I recommend to avoid too much native testing and focus on cross-platform testing instead (e.g. via https://capacitorjs.com or Flutter).
 
 ____
 
